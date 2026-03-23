@@ -9,9 +9,7 @@ Production REST API serving an XGBoost attrition model — AUC 0.79 on IBM HR da
 | Docs | https://hr-attrition-api-qzeq.onrender.com/docs |
 | Streamlit | https://hr-attrition-api-kv.streamlit.app |
 
-## Screenshots
-![API Docs](screenshots/api_docs.png)
-![API Response](screenshots/api_response.png)
+
 
 ## Endpoints
 | Method | Endpoint | Description |
